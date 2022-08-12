@@ -15,10 +15,11 @@
   ## [Installation](#table-of-contents)
   This application requires Node.js, Inquirer, console.table and mysql12. to start application run npm start. to view database from MYSQL run mysql -u root -p.
     
-    this video shows the application running [Screencastify] (https://drive.google.com/file/d/1mBVvGvGEAJau-nTCBo-AzNHCd1Tyh-tr/view)
   ## [Usage](#table-of-contents)
 
   This application will allow users to view, add, and edit employees, roles, departments, and managers.
+  
+  this video shows the application running [!Screencastify] (https://drive.google.com/file/d/1mBVvGvGEAJau-nTCBo-AzNHCd1Tyh-tr/view)
 
   ## Contributing
    
